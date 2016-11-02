@@ -2,7 +2,9 @@ package com.firstov;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 import java.util.Arrays;
+
 import static com.firstov.Main.WarningType.*;
 
 public class Main {
